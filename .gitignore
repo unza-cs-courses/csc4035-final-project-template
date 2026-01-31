@@ -1,6 +1,13 @@
 # Dependencies
 node_modules/
 
+# OS files
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
 # Environment
 .env
 .env.local
@@ -8,21 +15,3 @@ node_modules/
 # IDE
 .vscode/
 .idea/
-*.swp
-*.swo
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-npm-debug.log*
-
-# Test outputs
-test_results.json
-test_output.txt
-
-# Build
-dist/
-build/
