@@ -2,8 +2,8 @@
 /**
  * CSC4035 Final Project - Visible Tests
  *
- * These tests check basic functionality and structure requirements.
- * Hidden tests will check edge cases and advanced features after deadline.
+ * Run these tests locally with: npm test
+ * Additional hidden tests will be used for final grading after the deadline.
  */
 
 const http = require('http');
